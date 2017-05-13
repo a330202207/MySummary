@@ -16,6 +16,7 @@
       - [Redis简单Demo][5]
     - SSDB
     - MogoDB
+     - [MongoDB 简单介绍以及安装][6]
  * 消息队列
  * Web安全
  * RPC
@@ -39,3 +40,4 @@
   [3]: http://www.zhazhablog.com/2017/03/07/Redis%E4%B8%BB%E4%BB%8E%E9%85%8D%E7%BD%AE%EF%BC%88%E4%B8%89%EF%BC%89/
   [4]: http://www.zhazhablog.com/2017/03/07/Redis%E9%9B%86%E7%BE%A4%E6%90%AD%E5%BB%BA%E4%B8%8E%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8%EF%BC%88%E5%9B%9B%EF%BC%89/
   [5]: https://github.com/a330202207/Redis_demo
+  [6]: https://a330202207.github.io/2017/03/30/MongoDB%E7%AE%80%E5%8D%95%E4%BB%8B%E7%BB%8D%E4%BB%A5%E5%8F%8A%E5%AE%89%E8%A3%85%EF%BC%88%E4%B8%80%EF%BC%89/
