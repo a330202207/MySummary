@@ -62,6 +62,7 @@
  * 版本工具
     - Svn
     - Git
+     - [Git的简单命令][http://upupjie.com/2017/07/22/Git%E7%9A%84%E7%AE%80%E5%8D%95%E5%91%BD%E4%BB%A4/]
  * IDE
  * 环境
 
