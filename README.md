@@ -62,7 +62,7 @@
  * 版本工具
     - Svn
     - Git
-     - ![Git的简单命令](http://upupjie.com/2017/07/22/Git%E7%9A%84%E7%AE%80%E5%8D%95%E5%91%BD%E4%BB%A4/)
+     - [Git的简单命令][21]
  * IDE
  * 环境
 
@@ -87,3 +87,4 @@
   [18]: https://github.com/a330202207/patterns/blob/master/Strategy/index.php
   [19]: https://github.com/a330202207/patterns/blob/master/Observer/index.php
   [20]: https://github.com/a330202207/patterns/blob/master/Register/index.php
+  [21]: http://upupjie.com/2017/07/22/Git%E7%9A%84%E7%AE%80%E5%8D%95%E5%91%BD%E4%BB%A4/
